@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
+//4.GÜN SONU KAYIT
 namespace GenericsIntro
 {
     //generic class //Generic = Genel/Kapsamlı

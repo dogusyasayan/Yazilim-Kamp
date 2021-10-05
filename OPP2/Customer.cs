@@ -4,12 +4,9 @@ using System.Text;
 
 namespace OPP2
 {
-    class Customer
+    class Customer //Base Class
     {
         public int Id { get; set; }
         public string CustomerNumber { get; set; }
-        public string Name { get; set; }
-        public string Soyadi { get; set; }
-        public string  MyProperty { get; set; }
     }
 }
